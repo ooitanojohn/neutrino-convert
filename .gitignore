@@ -1,0 +1,13 @@
+bin/
+license/
+model/
+settings/
+score/
+__pycache__/
+output/
+
+*.pdf
+.env
+*.log
+*.json
+*.txt
